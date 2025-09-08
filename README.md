@@ -52,7 +52,7 @@ Esta é uma **Single Page Application (SPA)** desenvolvida em React com TypeScri
 
 ### 1. Clone o repositório
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/CarlosFreitasR/desenvolve-mt
 cd desaparecidos-mt
 ```
 
@@ -214,15 +214,8 @@ Este projeto foi desenvolvido como teste técnico para a vaga de Desenvolvedor P
 
 ## 👨‍💻 Desenvolvedor
 
-**Nome**: [Seu Nome]  
-**Email**: [seu.email@exemplo.com]  
-**LinkedIn**: [linkedin.com/in/seu-perfil]
+**Nome**: Carlos Henrique de Freitas Ribeiro
+**Email**: bomsalvez@gmail.com
+**LinkedIn**: https://www.linkedin.com/in/bomsalvez-freitas
 
 ---
-
-## 🚨 Importante
-
-Esta aplicação é destinada **APENAS** para fins educacionais e de teste técnico. 
-Para informações reais sobre pessoas desaparecidas, entre em contato diretamente com a Polícia Judiciária Civil de Mato Grosso.
-
-**Telefone de Emergência**: 190
