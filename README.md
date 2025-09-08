@@ -215,7 +215,9 @@ Este projeto foi desenvolvido como teste técnico para a vaga de Desenvolvedor P
 ## 👨‍💻 Desenvolvedor
 
 **Nome**: Carlos Henrique de Freitas Ribeiro
+
 **Email**: bomsalvez@gmail.com
+
 **LinkedIn**: https://www.linkedin.com/in/bomsalvez-freitas
 
 ---
